@@ -4,8 +4,8 @@ const contactItems = [
   {
     icon: Mail,
     label: "Email",
-    value: "gayathridevi@example.com",
-    href: "mailto:gayathridevi@example.com",
+    value: "gayuaji205@gmail.com",
+    href: "mailto:gayuaji205@gmail.com",
   },
   {
     icon: Linkedin,
